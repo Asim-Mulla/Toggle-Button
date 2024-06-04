@@ -1,2 +1,2 @@
 # Toggle-Button
-Create a toggle darkmode toggle button using HTML and CSS
+Create a darkmode toggle button using HTML and CSS
